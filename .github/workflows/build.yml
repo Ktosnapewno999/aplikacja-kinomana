@@ -25,7 +25,7 @@ jobs:
 
       - name: 🏗️ Build EXE with PyInstaller
         run: |
-          pyinstaller --onefile --windowed --icon=icon.ico main_kivy.py
+          pyinstaller --onefile --windowed --icon=ikona.ico main.py
         shell: cmd
 
       - name: 📁 Upload artifact
