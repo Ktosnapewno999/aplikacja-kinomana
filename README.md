@@ -10,7 +10,7 @@ Inteligentny algorytm: Układa seanse w logicznej kolejności, uwzględniając c
 
 Personalizacja: Możliwość filtrowania wyników według:
 
-Miasta i konkretnego kina (lub wszystkich kin).
+Miasta i konkretnego kina (lub wszystkich kin)
 
 Dnia seansu.
 
