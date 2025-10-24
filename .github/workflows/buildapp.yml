@@ -25,7 +25,7 @@ jobs:
 
       - name: 🏗️ Build .app with PyInstaller
         run: |
-          pyinstaller --onefile --windowed --name AsystentKinomana --icon=ikona.icns main.py
+          pyinstaller --onefile --windowed --name AsystentKinomana --icon=ikona.ico main.py
         shell: bash
 
       - name: 📁 Upload artifact
