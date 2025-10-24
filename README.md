@@ -1,3 +1,5 @@
+
+
 🍿 Asystent Kinomana
 Asystent Kinomana to desktopowa aplikacja stworzona w Pythonie z użyciem tkinter, która pomaga zaplanować idealny maraton filmowy w wybranych miastach Polski. Aplikacja automatycznie pobiera repertuar kin, a następnie na podstawie kryteriów użytkownika układa optymalny harmonogram seansów, jeden po drugim.
 
@@ -92,6 +94,14 @@ Wymagania
 Python 3.x
 
 Biblioteki wymienione w pliku requirements.txt
+
+Klucz api geoapify(darmowy) Jeśli go jeszcze nie masz — załóż darmowe konto tutaj:
+https://www.geoapify.com/get-started
+
+Potem:
+1️⃣ Wejdź w Dashboard
+2️⃣ Tam masz API Key
+
 
 Instalacja
 Sklonuj repozytorium:
